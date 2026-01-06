@@ -2,7 +2,7 @@
 
 A reproducible, notebook-first data science project that builds a leakage-safe ICU cohort, engineers first-24-hour lab features, trains a baseline mortality model, and performs evaluation + error analysis using the **MIMIC-IV Clinical Database Demo (v2.2)**.
 
-> ⚠️ Educational project only. Not medical advice and not intended for clinical use.
+> Educational project only. Not medical advice and not intended for clinical use.
 
 ---
 
